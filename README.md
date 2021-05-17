@@ -1,4 +1,13 @@
-### Hi there 👋
+```js
+while (true) {
+  getMotivated();
+  getWorking();
+  getBored();
+  fuckThisShit();
+  playVideoGames();
+  feelGuilty();
+}
+```
 
 <!--
 **Omar-Handouk/Omar-Handouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

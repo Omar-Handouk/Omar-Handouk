@@ -1,11 +1,11 @@
 ```js
 while (true) {
-  getMotivated();
-  getWorking();
-  getBored();
-  fuckThisShit();
-  playVideoGames();
-  feelGuilty();
+	getMotivated();
+	getWorking();
+	getBored();
+	fuckThisShit();
+	playVideoGames();
+	feelGuilty();
 }
 ```
 
